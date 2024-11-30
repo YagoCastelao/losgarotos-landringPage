@@ -8,7 +8,7 @@ import './Card.css'
   return (
     <>
     <div className="container-fluid d-flex p-2 gap-3 justify-content-center">
-<div className="card border mb-3">
+<div className="card border mb-3 col-lg-3 col-md-6 col-sm-12">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0004/brand.gif?itok=p6ewe6-E" className="card-img-top" alt="..." />
   <div className="card-body border d-flex flex-column align-items-center">
     <h5 className="card-title">Título</h5>
@@ -18,7 +18,7 @@ import './Card.css'
     <a href="#" className="button btn btn-primary ">Go somewhere</a>
   </div>
 </div>
-<div className="card border mb-3">
+<div className="card border mb-3 col-lg-3 col-md-6 col-sm-12">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0004/brand.gif?itok=p6ewe6-E" className="card-img-top" alt="..." />
   <div className="card-body border d-flex flex-column align-items-center">
     <h5 className="card-title">Título</h5>
@@ -28,7 +28,7 @@ import './Card.css'
     <a href="#" className="button btn btn-primary ">Go somewhere</a>
   </div>
 </div>
-<div className="card border mb-3">
+<div className="card border mb-3 col-lg-3 col-md-6 col-sm-12">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0004/brand.gif?itok=p6ewe6-E" className="card-img-top" alt="..." />
   <div className="card-body border d-flex flex-column align-items-center">
     <h5 className="card-title">Título</h5>
@@ -38,7 +38,7 @@ import './Card.css'
     <a href="#" className="button btn btn-primary ">Go somewhere</a>
   </div>
 </div>
-<div className="card border mb-3">
+<div className="card border mb-3 col-lg-3 col-md-6 col-sm-12">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0004/brand.gif?itok=p6ewe6-E" className="card-img-top" alt="..." />
   <div className="card-body border d-flex flex-column align-items-center">
     <h5 className="card-title">Título</h5>

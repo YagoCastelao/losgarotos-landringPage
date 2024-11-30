@@ -1,7 +1,11 @@
+
 .card {
     margin: 0;
     padding: 0;
-    /*max-width: 12rem;*/
+    display: flex;
+    flex-wrap: wrap;
+    width: 18vw;
+    height: 62vh;
 }
 
 .button {
