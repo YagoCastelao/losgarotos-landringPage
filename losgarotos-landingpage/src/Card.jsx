@@ -7,7 +7,7 @@ import './Card.css'
  export const Card = () => {
   return (
     <>
-    <div className="container d-flex p-2 gap-3 justify-content-center">
+    <div className="container-fluid d-flex p-2 gap-3 justify-content-center">
 <div className="card border mb-3">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0004/brand.gif?itok=p6ewe6-E" className="card-img-top" alt="..." />
   <div className="card-body border d-flex flex-column align-items-center">

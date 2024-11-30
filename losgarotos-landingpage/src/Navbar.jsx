@@ -6,7 +6,7 @@ import './Navbar.css'
 
  export const Navbar = () => {
   return (
-    <>
+    <div className="padre container-fluid">
      <nav className="navbar navbar-expand-lg bg-secondary">
   <div className="container-fluid d-flex">
     <a className="navbar-brand d-flex justify-content-start" href="#">
@@ -34,7 +34,7 @@ import './Navbar.css'
     </div>
   </div>
 </nav> 
-    </>
+    </div>
   )
 }
 
