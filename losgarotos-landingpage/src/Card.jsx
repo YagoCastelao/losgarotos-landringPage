@@ -6,6 +6,7 @@ import './Card.css'
 
 export const Card = () => {
   return (
+
     <div className="container-fluid p-2">
       <div className="row justify-content-center">
 {/* card #1 */}
@@ -54,4 +55,3 @@ export const Card = () => {
 };
 
 export default Card;
-
