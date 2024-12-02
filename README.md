@@ -6,7 +6,7 @@ Para acceder a el Proyecto digite los seguintes comando en el terminal:
 
 $ npm install vite
 
-<mark> 2º Aceder a la carpeta del Proyecto: </mark>
+<mark> 2º Acceder a la carpeta del Proyecto: </mark>
 
 $ cd losgarotos-landingpage
 
